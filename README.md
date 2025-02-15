@@ -1,4 +1,8 @@
-## Hi there 👋
+## Sejam bem-vindos ao meu mundo!👋
+
+💖 Olá, me chamo Mayra Oishi! <br>
+👩‍🎓 Sou estudante de Sistemas de Informação.<br>
+📪 [Linkedin](www.linkedin.com/in/mayra-oishi)
 
 <!--
 **MayraOishi/MayraOishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
