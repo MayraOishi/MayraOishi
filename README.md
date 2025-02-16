@@ -5,6 +5,6 @@
 📪 [Linkedin](www.linkedin.com/in/mayra-oishi)
 
 ---
-![Mayra Oishi GitHub stats](https://github-readme-stats.vercel.app/api?username=MayraOishia&show_icons=true&theme=tokyonight)
+![Mayra Oishi GitHub stats](https://github-readme-stats.vercel.app/api?username=MayraOishi&show_icons=true&theme=tokyonight)
 
 
